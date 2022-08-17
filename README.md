@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Farjad Ilyas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+Developer;Google+Summer+of+Code+2021+Participant;Student+at+FAST-NUCES;AnkiDroid+Contributor;Natural+Language+Processing;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Google+Summer+of+Code+2021+Participant;Student+at+FAST-NUCES;AnkiDroid+Contributor;Natural+Language+Processing;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 - :school: I am a `Senior` at the National University of Computer and Emerging Sciences (FAST-NUCES)
 - :trophy: `Google Summer of Code` 2021 Student Android Developer with AnkiDroid
 - :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my Résumé](https://drive.google.com/file/d/11qCj7FODj0w3L2Jngfbl9K0AfaomiqDd/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 ## 📊🔥 GitHub Stats
