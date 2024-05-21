@@ -11,7 +11,7 @@
 
 
 ## :sassy_man:  About me
-- :office: Software Engineer @ `noon`
+- ![](https://img.shields.io/badge/%F0%9F%8F%A2_software_engineer_@_noon-black?style=for-the-badge&color=ffee00)
 - :trophy: `Google Summer of Code` 2021 with [AnkiDroid](https://github.com/ankidroid/Anki-Android)
 - :nerd_face: Always `learning new things`
 
