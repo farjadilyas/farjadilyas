@@ -12,7 +12,7 @@
 
 ## :sassy_man:  About me
 - ![](https://img.shields.io/badge/%F0%9F%8F%A2_software_engineer_@_noon-black?style=for-the-badge&color=ffee00)
-- :trophy: `Google Summer of Code` 2021 with [AnkiDroid](https://github.com/ankidroid/Anki-Android)
+- ![](https://img.shields.io/badge/🏆_google_summer_of_code_@_AnkiDroid-black?style=for-the-badge&color=4285f4)
 - :nerd_face: Always `learning new things`
 
 ## 📊🔥 GitHub Stats
